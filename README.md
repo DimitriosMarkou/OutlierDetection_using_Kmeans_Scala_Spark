@@ -1,1 +1,1 @@
-# Outliers-using-Kmeans (Scala-Spark)
+# OutlierDetection-using-Kmeans (Scala-Spark)
